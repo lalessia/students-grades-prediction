@@ -6,7 +6,7 @@ EDA and Data Prediction on dataset about alcohol consumption in young people
 Il repository ha la seguente struttura:
 
 - **dataset/**: La directory contenente i dataset che sono stati usati
-- **project.ipynb/**: cuore del progetto, questo file contenente l'analisi Esporativa e l'analisi predittiva 
+- **project.ipynb**: cuore del progetto, questo file contenente l'analisi Esporativa e l'analisi predittiva 
 
 
 # Esecuzione del Notebook Jupyter
