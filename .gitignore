@@ -10,3 +10,6 @@ Thumbs.db
 #################
 
 test.ipynb
+
+.venv
+dataset/archive (14).zip
