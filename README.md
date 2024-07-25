@@ -5,9 +5,9 @@ This project aims to analyze the academic performance of a sample of high school
 
 # Repository
 
-Il repository ha la seguente struttura:
+Repository structure:
 
-- **dataset/**: La directory contenente i dataset che sono stati usati
+- **dataset/**: The directory containing the datasets that were used https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
 - **Alchol_Youth_EDA_PDA.ipynb**: heart of the project, this file containing the export analysis and the predictive analysis performed with python
 
 # Esecuzione del Notebook Jupyter
