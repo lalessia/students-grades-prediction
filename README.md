@@ -1,13 +1,14 @@
 # Alcohol and Young
-EDA and Data Prediction on dataset about alcohol consumption in young people
+
+This project aims to analyze the academic performance of a sample of high school students, with the aim of identifying the factors that most influence the final results and carrying out predictive assessments.
+
 
 # Repository
 
 Il repository ha la seguente struttura:
 
 - **dataset/**: La directory contenente i dataset che sono stati usati
-- **project.ipynb**: cuore del progetto, questo file contenente l'analisi Esporativa e l'analisi predittiva 
-
+- **Alchol_Youth_EDA_PDA.ipynb**: heart of the project, this file containing the export analysis and the predictive analysis performed with python
 
 # Esecuzione del Notebook Jupyter
 
