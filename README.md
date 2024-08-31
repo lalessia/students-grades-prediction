@@ -34,20 +34,20 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/lalessia/grades-prediction.git
 ```
 2. Navigate to the project directory:
     ```bash
-    python -m venv myenv
+    cd grades-prediction
     ```
 3. Open the Jupyter Notebook: You can open the notebook using Jupyter Notebook or Jupyter Lab.
     ```bash
-    python -m venv myenv
+    jupyter notebook grade_EDA_PDA.ipynb
     ```
 4. Run the notebook: Execute the cells in the notebook to perform the data exploration and run the predictive models.
 
 
-# Alcohol and Young
+# Old Alcohol and Young
 
 This project aims to analyze the academic performance of a sample of high school students, with the aim of identifying the factors that most influence the final results and carrying out predictive assessments.
 
