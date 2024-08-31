@@ -6,7 +6,7 @@ This repository contains a project focused on the exploration of data and predic
 
 - **`dataset/`**: This folder contains the data sources used in the project. The datasets have been extracted from Kaggle and are utilized for both data exploration and modeling.
 
-- **`Alchol_Youth_EDA_PDA.ipynb`**: This Jupyter Notebook is the core of the project. It includes:
+- **`grade_EDA_PDA.ipynb`**: This Jupyter Notebook is the core of the project. It includes:
   - **Exploratory Data Analysis (EDA)**: Investigation of the dataset to understand the distributions, relationships, and key patterns.
   - **Predictive Data Analysis (PDA)**: The application of machine learning models to predict students' grades based on the explored features.
 
@@ -16,17 +16,29 @@ This repository contains a project focused on the exploration of data and predic
 
 To run this project, you will need to have the following Python packages installed:
 
-- pandas
-- numpy
 - matplotlib
-- seaborn
+- numpy
+- pandas
+- pillow
+- plotly
 - scikit-learn
+- scipy
+- seaborn
 
 You can install all the required packages using the following command:
 
 ```bash
 pip install -r requirements.txt
 ```
+## How to Run the Project
+
+1. Clone the repository:
+```bash
+pip install -r requirements.txt
+```
+2. Navigate to the project directory:
+3. Open the Jupyter Notebook: You can open the notebook using Jupyter Notebook or Jupyter Lab.
+4. Run the notebook: Execute the cells in the notebook to perform the data exploration and run the predictive models.
 
 
 # Alcohol and Young
