@@ -37,7 +37,13 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 2. Navigate to the project directory:
+    ```bash
+    python -m venv myenv
+    ```
 3. Open the Jupyter Notebook: You can open the notebook using Jupyter Notebook or Jupyter Lab.
+    ```bash
+    python -m venv myenv
+    ```
 4. Run the notebook: Execute the cells in the notebook to perform the data exploration and run the predictive models.
 
 
