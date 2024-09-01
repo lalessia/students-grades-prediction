@@ -37,13 +37,13 @@ pip install -r requirements.txt
 git clone https://github.com/lalessia/grades-prediction.git
 ```
 2. Navigate to the project directory:
-    ```bash
-    cd grades-prediction
-    ```
+```bash
+cd grades-prediction
+```
 3. Open the Jupyter Notebook: You can open the notebook using Jupyter Notebook or Jupyter Lab.
-    ```bash
-    jupyter notebook grade_EDA_PDA.ipynb
-    ```
+```bash
+jupyter notebook grade_EDA_PDA.ipynb
+```
 4. Run the notebook: Execute the cells in the notebook to perform the data exploration and run the predictive models.
 
 
