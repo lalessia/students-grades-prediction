@@ -1,6 +1,6 @@
 # High School Students' Grade Prediction
 
-This repository contains a project focused on the exploration of data and prediction of academic grades for a sample of high school students. The data sources are extracted from Kaggle, and the project includes exploratory data analysis (EDA) and predictive modeling using Python.
+This repository contains a project focused on data exploration and grade prediction for a sample of high school students, with the goal of identifying key factors influencing academic performance.
 
 ## Project Structure
 
@@ -12,13 +12,6 @@ This repository contains a project focused on the exploration of data and predic
 
 - **`grade_documentation.pdf`**: This PDF document provides detailed documentation of the project, including the methodology, data processing steps, model selection, and evaluation.
 
-## Requirements
-
-You can install all the required packages using the following command:
-
-```bash
-pip install -r requirements.txt
-```
 ## How to Run the Project
 
 1. Clone the repository:
@@ -33,4 +26,12 @@ cd students-grades-prediction
 ```bash
 jupyter notebook grade_EDA_PDA.ipynb
 ```
-4. Run the notebook: Execute the cells in the notebook to perform the data exploration and run the predictive models.
+4. Install requirements: You can install all the required packages using the following command:
+```bash
+pip install -r requirements.txt
+```
+5. Run the notebook: Execute the cells in the notebook to perform the data exploration and run the predictive models.
+
+## Dataset
+The dataset used in this project includes information on various aspects of high school students, such as demographic details, alcohol consumption habits, and academic performance. 
+The dataset has been preprocessed and is available in the dataset/ folder.
