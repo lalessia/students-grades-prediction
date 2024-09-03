@@ -32,6 +32,14 @@ pip install -r requirements.txt
 ```
 5. Run the notebook: Execute the cells in the notebook to perform the data exploration and run the predictive models.
 
+## Key Challenges
+This project presented several significant challenges:
+
+ - **Variable Encoding**: Properly encoding categorical variables was crucial to ensure that the data could be effectively utilized in the analysis. Choosing the right encoding techniques was essential to maintain the integrity of the data and avoid introducing biases.
+
+ - **Feature Selection**: Identifying the most impactful features for data analysis was a critical step. It required careful consideration to ensure that only the variables with the highest predictive power were included, which directly influenced the accuracy of the analysis and predictions.
+
+ - **Regression Algorithm Selection**: Choosing the most appropriate regression algorithms for predicting final grades was another major challenge. The selection process involved evaluating various models to find the best fit for the data, balancing complexity with predictive performance.
 
 ## Project Overview
 
@@ -43,6 +51,31 @@ The dataset has been preprocessed and is available in the dataset/ folder.
 The Exploratory Data Analysis (EDA) phase focuses on understanding the relationships between different variables within the dataset. 
 
 ### PDA
+The project applies several machine learning algorithms to predict students' final grades.
+
+sklearn algoritms implementated:
+
+  - svm
+    - SVR
+  - tree
+    - DecisionTreeRegression
+  - ensemble
+      - RandomForestRegression
+      - GradientBoostingRegression
+      - BaggingRegression
+  - neighbors
+      - KNeighborsRegression
+  - neural_network
+      - MLPRegression 
+  - linear_model
+    - LinearRegression
+    - Lasso
+    - Ridge
+    
+The models are evaluated based on their 
+- accuracy, precision, recall, and F1 score. 
+
+The notebook provides a step-by-step guide to how these models are implemented and evaluated.
 
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions that improve the analysis, add new models, or enhance the documentation are welcome.
