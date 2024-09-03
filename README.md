@@ -32,8 +32,17 @@ pip install -r requirements.txt
 ```
 5. Run the notebook: Execute the cells in the notebook to perform the data exploration and run the predictive models.
 
-## Dataset
-The dataset used in this project includes information on various aspects of high school students, such as demographic details, alcohol consumption habits, and academic performance. 
+
+## Project Overview
+
+### Dataset
+The dataset used in this project includes information on various aspects of high school students, such as demographic details, alcohol consumption habits, family environment and academic performance. 
 The dataset has been preprocessed and is available in the dataset/ folder.
 
-## 
+### EDA
+The Exploratory Data Analysis (EDA) phase focuses on understanding the relationships between different variables within the dataset. 
+
+### PDA
+
+## Contributing
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions that improve the analysis, add new models, or enhance the documentation are welcome.
