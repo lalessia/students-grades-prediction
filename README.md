@@ -41,7 +41,7 @@ This project presented several significant challenges:
 
  - **Regression Algorithm Selection**: Choosing the most appropriate regression algorithms for predicting final grades was another major challenge. The selection process involved evaluating various models to find the best fit for the data, balancing complexity with predictive performance.
 
-## Project Overview
+## Project Detail
 
 ### Dataset
 The dataset used in this project includes information on various aspects of high school students, such as demographic details, alcohol consumption habits, family environment and academic performance. 
@@ -50,7 +50,7 @@ The dataset has been preprocessed and is available in the dataset/ folder.
 ### EDA
 The Exploratory Data Analysis (EDA) phase focuses on understanding the relationships between different variables within the dataset. 
 
-### PDA
+### Machine Learning Algorithms
 The project applies several machine learning algorithms to predict students' final grades.
 
 Implemented sklearn algorithms:
@@ -72,8 +72,13 @@ Implemented sklearn algorithms:
     - [Lasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
     - [Ridge](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html)
     
-The models are evaluated based on their 
-- accuracy, precision, recall, and F1 score. 
+The models are evaluated based on their:
+
+- R-square
+- RMSE
+- MAE
+- Max Err
+- Train Time 
 
 The notebook provides a step-by-step guide to how these models are implemented and evaluated.
 
