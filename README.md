@@ -4,7 +4,7 @@ This repository contains a project focused on data exploration and grade predict
 
 ## Project Structure
 
-- **`dataset/`**: This folder contains the data sources used in the project. The datasets have been extracted from Kaggle and are utilized for both data exploration and modeling.
+- **`dataset/`**: This folder contains the data sources used in the project. The datasets have been extracted from [Kaggle](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data) and are utilized for both data exploration and prediction.
 
 - **`grade_EDA_PDA.ipynb`**: This Jupyter Notebook is the core of the project. It includes:
   - **Exploratory Data Analysis (EDA)**: Investigation of the dataset to understand the distributions, relationships, and key patterns.
@@ -35,3 +35,5 @@ pip install -r requirements.txt
 ## Dataset
 The dataset used in this project includes information on various aspects of high school students, such as demographic details, alcohol consumption habits, and academic performance. 
 The dataset has been preprocessed and is available in the dataset/ folder.
+
+## 
