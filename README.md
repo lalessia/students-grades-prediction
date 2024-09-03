@@ -14,17 +14,6 @@ This repository contains a project focused on the exploration of data and predic
 
 ## Requirements
 
-To run this project, you will need to have the following Python packages installed:
-
-- matplotlib
-- numpy
-- pandas
-- pillow
-- plotly
-- scikit-learn
-- scipy
-- seaborn
-
 You can install all the required packages using the following command:
 
 ```bash
@@ -34,11 +23,11 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lalessia/grades-prediction.git
+git clone https://github.com/lalessia/students-grades-prediction.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd grades-prediction
+cd students-grades-prediction
 ```
 3. Open the Jupyter Notebook: You can open the notebook using Jupyter Notebook or Jupyter Lab.
 ```bash
