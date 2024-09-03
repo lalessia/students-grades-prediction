@@ -53,24 +53,24 @@ The Exploratory Data Analysis (EDA) phase focuses on understanding the relations
 ### PDA
 The project applies several machine learning algorithms to predict students' final grades.
 
-sklearn algoritms implementated:
+Implemented sklearn algorithms:
 
   - svm
-    - SVR
+    - [SVR](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
   - tree
-    - DecisionTreeRegression
+    - [DecisionTreeRegression](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
   - ensemble
-      - RandomForestRegression
-      - GradientBoostingRegression
-      - BaggingRegression
+      - [RandomForestRegression](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+      - [GradientBoostingRegression](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
+      - [BaggingRegression](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingRegressor.html)
   - neighbors
-      - KNeighborsRegression
+      - [KNeighborsRegression](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html)
   - neural_network
-      - MLPRegression 
+      - [MLPRegression](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
   - linear_model
-    - LinearRegression
-    - Lasso
-    - Ridge
+    - [LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+    - [Lasso](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
+    - [Ridge](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html)
     
 The models are evaluated based on their 
 - accuracy, precision, recall, and F1 score. 
