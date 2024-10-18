@@ -1,6 +1,10 @@
 # High School Students' Grade Prediction
 
+<p>This project analyzes and predicts the grades of high school students, utilizing advanced data science techniques to identify the key factors influencing academic performance. Through exploratory data analysis (EDA) and predictive machine learning models, I uncovered valuable insights to improve educational interventions. Developed using various regression algorithms, the project highlights how factors such as family environment and alcohol consumption habits can significantly impact academic achievement. This work represents the final project of my Master's in Data Science at start2impact and reflects my commitment to fostering knowledge from a young age and supporting it with data
+</p>
+<p>
 This repository contains a project focused on data exploration and grade prediction for a sample of high school students, with the goal of identifying key factors influencing academic performance.
+</p>
 
 ## Project Structure
 
